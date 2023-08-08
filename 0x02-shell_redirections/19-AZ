@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A cat is here" | tr A Z | tr c e 
+tr "A" "Z" | tr "c" "e" 
