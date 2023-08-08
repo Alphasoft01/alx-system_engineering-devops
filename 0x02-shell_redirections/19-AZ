@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "A c" | tr 'Ac' 'Ze'
+echo "A cat and a dog" | tr 'Ac' 'Ze' 
